@@ -28,7 +28,8 @@ A **Flutter** mobile application for home automation.
 
 * **Usage:** Select the Bluetooth device upon startup and use the buttons on the interface to control devices and view data.
 
- Demostrative video: 
+ Demostrative video: https://youtu.be/8l1PAsT309Q
+
 
 
 
